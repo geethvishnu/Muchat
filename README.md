@@ -7,14 +7,9 @@ Mutual Chat (MUCHAT) is a robust chat application offering real-time messaging, 
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [Technology Stack](#technology-stack)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
@@ -23,7 +18,7 @@ Mutual Chat (MUCHAT) is a robust chat application offering real-time messaging, 
 - **Timed Message Scheduling**: Schedule messages to be sent at a future date and time, perfect for birthday wishes and reminders.
 - **User Authentication**: Secure user login and registration.
 - **Online/Offline Status**: See who is online or offline.
-- **Responsive Design**: Works well on both desktop and mobile devices.
+
 
 
 
@@ -39,7 +34,7 @@ Mutual Chat (MUCHAT) is a robust chat application offering real-time messaging, 
 
 ## Technology Stack
 
-- **Frontend**: React.js
+- **Frontend**: React.js,
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **WebSockets**: For real-time communication
