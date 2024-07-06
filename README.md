@@ -7,7 +7,6 @@ Mutual Chat (MUCHAT) is a robust chat application offering real-time messaging, 
 ## Table of Contents
 
 - [Features](#features)
-- [Usage](#usage)
 - [Technology Stack](#technology-stack)
 
 
@@ -21,14 +20,6 @@ Mutual Chat (MUCHAT) is a robust chat application offering real-time messaging, 
 
 
 
-
-## Usage
-
-1. Open your browser and navigate to `http://localhost:3000`.
-2. Register a new account or log in with an existing account.
-3. Add contacts and start chatting.
-4. Use the file sharing feature to send files.
-5. Schedule birthday wishes or other timed messages using the provided options.
 
 
 
